@@ -1,0 +1,16 @@
+title: Shine Anyway
+description: Real life. Real growth. Real messy.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed---
+layout: home
+title: Home
+---
+Welcome. Posts below---
+layout: post
+title: "Day One: Why I’m Starting This"
+date: 2025-11-09
+tags: [life, parenting, recipes]
+---
+Today felt lighter. Here’s where I’ll drop big-batch recipes, Chromebook fixes, and honest parenting wins & Ls
